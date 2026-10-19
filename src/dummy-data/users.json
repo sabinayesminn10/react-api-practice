@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "ownerName": "Jhon Doe",
+    "name": "Sakib Hossain",
+    "role": "Software Engineer | Full-Stack Developer",
+    "location": "Banani, Dhaka, Bangladesh",
+    "description": "Software engineer experienced in developing complete web applications from responsive frontend interfaces to backend services and databases.",
+    "email": "sakib.hossain@example.com",
+    "dateOfBirth": "12 September 1996",
+    "phone": "+880 1766-789012",
+    "joined": "Joined on 19 Feb 2026"
+  },
+  {
+    "id": 2,
+    "ownerName": "Rimon khan",
+    "name": "Farzana Karim",
+    "role": "Web Developer | JavaScript Specialist",
+    "location": "Rajshahi, Bangladesh",
+    "description": "Web developer creating interactive and responsive websites using modern JavaScript technologies and component-based development.",
+    "email": "farzana.karim@example.com",
+    "dateOfBirth": "3 April 2000",
+    "phone": "+880 1777-890123",
+    "joined": "Joined on 2 May 2026"
+  },
+  {
+    "id": 3,
+    "ownerName": "Jhon Doe",
+    "name": "Tanvir Hasan",
+    "role": "Backend Developer | Node.js Specialist",
+    "location": "Uttara, Dhaka, Bangladesh",
+    "description": "Backend developer experienced in building REST APIs, authentication systems, and scalable server-side applications using Node.js, Express, and MongoDB.",
+    "email": "tanvir.hasan@example.com",
+    "dateOfBirth": "10 January 1997",
+    "phone": "+880 1722-345678"
+  },
+  {
+    "id": 4,
+    "ownerName": "jhon kark",
+    "name": "Nusrat Jahan",
+    "role": "UI/UX Designer | Product Designer",
+    "location": "Mirpur, Dhaka, Bangladesh",
+    "description": "Creative UI/UX designer passionate about designing intuitive digital experiences, user interfaces, and accessible web products.",
+    "email": "nusrat.jahan@example.com",
+    "dateOfBirth": "5 November 1999",
+    "phone": "+880 1733-456789",
+    "joined": "Joined on 2 May 2026"
+  }
+]
